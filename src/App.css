@@ -1,0 +1,35 @@
+:root {
+  --base: #f5f5f5;
+  --text: #4c4c4c;
+  --prime: #fff;
+  --second: #eee;
+  --header: #128C7E;
+}
+
+@media (max-width: 1360px) {
+  :root {
+    font-size: 1.5vw;
+  }
+}
+
+@media (max-width: 1024px) {
+  :root {
+    font-size: 2vw;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    font-size: 3vw;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --base: #363636;
+    --text: #fff;
+    --prime: #4c4c4c;
+    --second: #555;
+    --header: #3c4140;
+  }
+}
