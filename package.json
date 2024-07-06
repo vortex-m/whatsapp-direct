@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-direct",
-  "homepage": "https://x-imayank.github.io/whatsapp-direct",
   "private": true,
+  "homepage": "https://x-imayank.github.io/whatsapp-direct",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
